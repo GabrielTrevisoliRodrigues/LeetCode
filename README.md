@@ -1,4 +1,5 @@
 # LeetCode
+# I got those problems on a list called "150 must do for interviews", my focus was to train for interviews, but also to review and practice topics that i studied in college 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
